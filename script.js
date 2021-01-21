@@ -28,7 +28,7 @@ $(document).ready(function(){
 
     // typing script
     var typed = new Typed(".typing", {
-        strings: ["Trainer","Designer","Freelancer","PD Trainer","Soft Skill Trainer","Life Skills Trainer","Sales Trainer","Coorporate Trainer","IT Trainer","Retail Trainer","Motivational Trainer","Behavioural Trainer"],
+        strings: ["Trainer","Designer","Freelancer","PD Trainer","Soft Skill Trainer","Life Skills Trainer","Sales Trainer","IT Trainer","Retail Trainer","Cooperate Trainer","Motivational Trainer","Behavioural Trainer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
